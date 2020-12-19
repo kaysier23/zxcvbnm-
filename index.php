@@ -1,6 +1,11 @@
 <html>
 	<link rel="stylesheet" type = "text/css" href = "style.css"/>
 <body>
+ <div class="row cf"> 
+          <div class="six col">
+        <a href="index.php" class="button" id="button-8">HOME</a>
+      </div>
+      </div>
 <canvas></canvas>
 <Script>
 const canvas = document.querySelector('canvas')

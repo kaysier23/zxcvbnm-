@@ -1,5 +1,5 @@
 <html>
-	<link rel="stylesheet" type = "text/css" href = "cstyle.css"/>
+	<link rel="stylesheet" type = "text/css" href = "style.css"/>
 <body>	
 		<div class = "header"> </div>
 			<div class = "navi">
